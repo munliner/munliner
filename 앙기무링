@@ -1,1 +1,11 @@
 <html>
+     <body>
+		<span style="background-color: red;">span1</span>
+		<span style="background-color: blue;">span2</span>
+		<span style="background-color: green;">span3</span>
+		<ol>
+		   <li>목록1</li>
+		   <li>목록2</li>
+		   </ul>
+		   </body>
+		   <html>
